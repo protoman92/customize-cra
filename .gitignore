@@ -9,3 +9,4 @@ dist/
 # Disk
 .DS_Store
 .rush
+*.log
